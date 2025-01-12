@@ -9,5 +9,9 @@ export default [
         ecmaVersion: "latest",
       },
     },
+    rules: {
+      // https://eslint.org/docs/latest/rules/id-length
+      "id-length": ["error", { "min": 1 }]
+    }
   },
 ];
