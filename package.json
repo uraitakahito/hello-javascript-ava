@@ -1,0 +1,16 @@
+{
+  "name": "hello-javascript-ava",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "description": "",
+  "devDependencies": {
+    "ava": "^6.2.0",
+    "eslint": "^9.18.0"
+  }
+}
